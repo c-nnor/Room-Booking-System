@@ -1,4 +1,7 @@
- ## Screenshots of the GUI
+# Room Booking System
+
+ 
+ ## Screenshots
   
   <div align="center">
   <div>
