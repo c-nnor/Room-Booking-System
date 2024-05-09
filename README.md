@@ -1,5 +1,9 @@
 # Room Booking System
 
+## Contents
+- [Screenshots](#Screenshots)
+- [Features](##Features)
+
  
  ## Screenshots
   
@@ -43,7 +47,6 @@
     -   Sleek GUI with QOL features (exit, back)
 
 
-## Install
 
 ### Prerequisites
 
