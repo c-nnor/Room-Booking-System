@@ -1,11 +1,12 @@
 # Room Booking System
 
-## Contents
 - [Screenshots](#Screenshots)
-- [Features](##Features)
+- [Features](#Features)
+- [Prerequisites](#Prerequisites)
+- [Set up](#Setup)
 
  
- ## Screenshots
+ ### Screenshots
   
   <div align="center">
   <div>
@@ -36,7 +37,7 @@
 </p>
 <br>
     
-## Features
+### Features
 
       
 -   General Functions
