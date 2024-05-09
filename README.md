@@ -13,6 +13,7 @@
   <div align="center">
   <div>
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.ibb.co/jz9tyf4/1.png"></img>
+    <br>
   
    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.ibb.co/n7tCYVd/Screenshot-1.png"></img>
 
